@@ -1,7 +1,8 @@
+
 <img src="https://avatars.githubusercontent.com/u/115897583?v=4" 
      alt="Profile photo" 
      align="right" 
-     width="200" 
+     width="150" 
      style="border-radius:50%; margin-left:15px;" />
 # Mohammad Habibul Akhyar
 Bandung, West Java • rrayhka@gmail.com 
